@@ -1,4 +1,11 @@
-﻿# Revisão Python
+> **EN:** Basic Python revision: JSON files, split modules, and two small terminal programs (dog breeds pricing and team lookup).
+>
+> *The rest of this README is in Brazilian Portuguese (pt-BR).*
+
+
+---
+
+# Revisão Python
 
 Revisão simples de conceitos em Python: leitura de JSON, módulos separados (`menu`, `lerJson` / `lerBanco`) e programas no terminal.
 
